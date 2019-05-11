@@ -10,3 +10,7 @@
 ![mlvsdeeplearning](https://user-images.githubusercontent.com/49519213/57575609-1e87d400-744e-11e9-8e94-3b98a6954874.png)
 
 * One of differences between machine learning and deep learning model is on the feature extraction area. Feature extraction is done by human in machine learning whereas deep learning model figure out by itself.
+
+![amountofdata](https://user-images.githubusercontent.com/49519213/57575647-cac9ba80-744e-11e9-8c47-a6901ae6bd89.png)
+
+* Deep learning models tend to perform well with amount ofdata wheras old machine learning models stops improving after a saturation point.
