@@ -7,3 +7,6 @@
 
 
 ## Difference between Machine Learning and Deep Learning
+![mlvsdeeplearning](https://user-images.githubusercontent.com/49519213/57575609-1e87d400-744e-11e9-8e94-3b98a6954874.png)
+
+* One of differences between machine learning and deep learning model is on the feature extraction area. Feature extraction is done by human in machine learning whereas deep learning model figure out by itself.
