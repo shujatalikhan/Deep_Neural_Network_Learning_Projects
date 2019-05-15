@@ -6,4 +6,5 @@
 * Pre trained network.
 * Fixed Feature Extraction Method
 * Fine-Tunning Method
-    
+![13244_2018_639_Fig10_HTML](https://user-images.githubusercontent.com/49519213/57741054-344e0100-76bb-11e9-8259-5a45c09b3d56.png)
+## Tip When to use Pretrained ,Fixed Feature Extraction Method,Fine-Tunning Method
