@@ -14,3 +14,9 @@
 ![amountofdata](https://user-images.githubusercontent.com/49519213/57575647-cac9ba80-744e-11e9-8c47-a6901ae6bd89.png)
 
 * Deep learning models tend to perform well with amount ofdata wheras old machine learning models stops improving after a saturation point.
+
+# Note when trying to open .ipynb file if some issue occur i:e"Sorry, something went wrong. Reload?" when viewing *.ipynb"
+## Follow the following Steps
+### 1. open "https://nbviewer.jupyter.org/"
+### 2.Paste"https://github.com/shujatalikhan/Deep_Neural_Network_Learning_Projects/blob/master/Transfer_Learning_VGG16/Convolutional_Neural_Network.ipynb" ---This is one example you can do same for any file
+### 3. Then You can See the Code 
